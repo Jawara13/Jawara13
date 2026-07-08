@@ -22,3 +22,59 @@ Jeune professionnel polyvalent avec une solide formation en informatique et en �
 [![](https://komarev.com/ghpvc/?username=JML&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## PORTFOLIO TECHNIQUE
+
+### GitHub
+
+Dépôts de projets et réalisations techniques
+
+GitHub : https://github.com/Jawara13
+
+---
+
+### Gestion School
+
+Plateforme complète de gestion scolaire (Web & Mobile)
+
+Description :
+
+* Développement de la plateforme web d'administration.
+* Développement des applications mobiles Android et iOS.
+* Gestion des établissements scolaires, élèves, enseignants, parents, notes, bulletins et emplois du temps.
+* Développement des API REST et de la base de données.
+
+Technologies :
+Laravel • Flutter • PHP • Dart • MySQL • REST API
+
+Site Web :
+https://gestionecole.site/
+
+Application Android :
+https://play.google.com/store/apps/details?id=gestion.site
+
+Application iOS :
+https://apps.apple.com/sn/app/gestion-school/id6761186157?l=fr-FR
+
+---
+
+### SenJeunes+
+
+Plateforme numérique d'information et d'échanges destinée aux jeunes.
+
+Description :
+
+* Développement du site web.
+* Développement de l'application mobile Android.
+* Publication de contenus éducatifs.
+* Forum de discussion modéré.
+* Interface moderne et sécurisée.
+
+Technologies :
+Flutter • Laravel • PHP • MySQL • API REST
+
+Site Web :
+https://senjeunesplus.app/
+
+Application Android :
+https://play.google.com/store/apps/details?id=com.senjeunes.app&pcampaignid=web_share
