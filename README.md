@@ -1,107 +1,24 @@
-<!-- Hero -->
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,45:3b82f6,100:22d3ee&height=220&section=header&text=Mohamed%20Lamine%20Diawara&fontSize=36&fontColor=fff&fontAlignY=32&desc=Data%20Analyst%20%7C%20Fullstack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=17&descColor=bae6fd&animation=twinkling" alt="Mohamed Lamine Diawara"/>
-</p>
+# 💫 About Me:
+Jeune professionnel polyvalent avec une solide formation en informatique et en économie appliquée. Titulaire d'un DTS en Informatique, d'un certificat en analyse de données et d'un certificat en intelligence artificielle, ainsi que d'une licence en économie appliquée , j'allie compétences techniques avancées et expertise analytique pour résoudre des problématiques complexes. Passionné par l'extraction d'insights à partir de données, l'automatisation et l'innovation technologique, je suis motivé à contribuer à des projets stratégiques dans des environnements dynamiques et innovants.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=60a5fa&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=90&lines=Transformer+les+donn%C3%A9es+en+insights+puissants;Laravel+%E2%80%A2+Python+%E2%80%A2+Power+BI+%E2%80%A2+Intelligence+Artificielle" alt="Typing SVG"/>
-</p>
 
-<p align="center">
-  <a href="mailto:mohamedlaminediawara43@gmail.com"><img src="https://img.shields.io/badge/Email-mohamedlaminediawara43%40gmail.com-3b82f6?style=flat-square&logo=gmail&logoColor=white&labelColor=1e3a8a" alt="Email"></a>
-  <a href="https://linkedin.com/in/mohamed-lamine-diawara-8b9699210"><img src="https://img.shields.io/badge/LinkedIn-Connect-0ea5e9?style=flat-square&logo=linkedin&logoColor=white&labelColor=1e3a8a" alt="LinkedIn"></a>
-  <a href="tel:+221773590067"><img src="https://img.shields.io/badge/+221%2077%20359%2000%2067-10b981?style=flat-square&logo=whatsapp&logoColor=white&labelColor=1e3a8a" alt="Phone"></a>
-</p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=JML&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=JML&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=JML&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img width="88%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,22&height=4&section=footer" alt=""/>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=JML&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- About -->
-<h2 align="center">💫 À propos de moi</h2>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p align="center">
-  Jeune professionnel polyvalent avec une solide formation en <strong>informatique</strong> et <strong>économie appliquée</strong>.<br>
-  Titulaire d’un <strong>DTS en Informatique</strong>, d’une <strong>Licence en Économie Appliquée</strong>, ainsi que de certifications en <strong>Analyse de Données</strong> et <strong>Intelligence Artificielle</strong>.
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=JML&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<p align="center">
-  Passionné par l’<strong>extraction d’insights</strong> à partir de données, l’<strong>automatisation</strong> des processus et l’<strong>innovation technologique</strong>, je combine compétences techniques pointues et analyse économique pour résoudre des problématiques complexes dans des environnements dynamiques.
-</p>
+---
+[![](https://komarev.com/ghpvc/?username=JML&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img width="88%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,22&height=4&section=footer" alt=""/>
-</p>
-
-<!-- Tech Stack -->
-<h2 align="center">💻 Tech Stack</h2>
-
-<h4 align="center">Languages & Frameworks</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-</p>
-
-<h4 align="center">Data & AI</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-</p>
-
-<h4 align="center">Outils & Infrastructure</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-</p>
-
-<p align="center">
-  <img width="88%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,22&height=4&section=footer" alt=""/>
-</p>
-
-<!-- Projects -->
-<h2 align="center">🚀 Projets Réalisés</h2>
-<p align="center">
-  <strong>Site E-commerce</strong> • 
-  <strong>Application de Gestion d’École</strong> (Web + Mobile) • 
-  <strong>Senejene+</strong> — Application mobile de santé mentale
-</p>
-
-<!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VOTREUSERNAME&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=VOTREUSERNAME&theme=radical&hide_border=true" alt="Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTREUSERNAME&theme=radical&hide_border=true&layout=compact" alt="Top Languages"/>
-</div>
-
-<!-- Trophies -->
-<h2 align="center">🏆 GitHub Trophies</h2>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VOTREUSERNAME&theme=radical&no-frame=true&margin-w=4" alt="Trophies"/>
-</div>
-
-<p align="center">
-  <img width="88%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,22&height=4&section=footer" alt=""/>
-</p>
-
-<!-- Footer -->
-<p align="center">
-  <strong>Ouvert aux opportunités, collaborations et projets innovants.</strong><br>
-  <sub>📍 Dakar, Sénégal  •  Français (Courant) • Anglais (Intermédiaire)</sub>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,45:3b82f6,100:1e3a8a&height=130&section=footer&animation=twinkling" alt=""/>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
