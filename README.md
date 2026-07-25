@@ -142,6 +142,7 @@ Passionné par l'extraction d'insights à partir de données, l'automatisation e
 |---|---|
 | 🌐 Site Web | [senjeunesplus.app](https://senjeunesplus.app/) |
 | 🤖 Android | [Google Play Store](https://play.google.com/store/apps/details?id=com.senjeunes.app&pcampaignid=web_share) |
+| 🍎 iOS | [Apple App Store](https://apps.apple.com/sn/app/senjeunes/id6782123867) |
 
 ---
 
