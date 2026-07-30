@@ -177,7 +177,7 @@ Passionné par l'extraction d'insights à partir de données, l'automatisation e
 | Plateforme | Lien |
 |---|---|
 | 🌐 Application | [fantasme.online](https://fantasme.online/public/) |
-| 🔌 API | [fantasme.online/api](https://fantasme.online/api/) |
+
 
 <div align="center">
 
