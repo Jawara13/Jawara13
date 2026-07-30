@@ -145,6 +145,39 @@ Passionné par l'extraction d'insights à partir de données, l'automatisation e
 | 🍎 iOS | [Apple App Store](https://apps.apple.com/sn/app/senjeunes/id6782123867) |
 
 ---
+---
+
+## 💬 Fantasme — Messagerie Privée & Groupes
+
+> **Application de messagerie avec système de crédits et paiement en ligne**
+
+<table>
+<tr>
+<td>
+
+**Ce que j'ai réalisé :**
+
+- 🔌 Conception et développement d'une API REST complète en PHP
+- 💬 Messagerie privée et discussions en groupes en temps réel
+- 💳 Intégration paiement PayPal (abonnement + packs de crédits)
+- 🔐 Authentification JWT sécurisée avec Google OAuth
+- 🛡️ Panel d'administration pour la modération du contenu
+- 📱 Frontend PWA en JavaScript vanilla avec design dark crimson
+
+</td>
+</tr>
+</table>
+
+**Stack technique :**
+
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
+
+**Liens :**
+
+| Plateforme | Lien |
+|---|---|
+| 🌐 Application | [fantasme.online](https://fantasme.online/public/) |
+| 🔌 API | [fantasme.online/api](https://fantasme.online/api/) |
 
 <div align="center">
 
